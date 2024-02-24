@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Ajay Kumar Tyagi, a full-time full-stack freelance developer 👨‍💻 </div>  
+### <h2 align="center">I'm Ajay Kumar Tyagi, a full-time full-stack freelance developer 👨‍💻 </h2>  
   
 
 - 🔭 I’m currently working on [Github](https://github.com/ajaytyagi7)  
